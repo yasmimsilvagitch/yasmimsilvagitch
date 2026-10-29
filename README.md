@@ -1,11 +1,11 @@
-<img src="https://github.com/Frisskas/README.md/blob/main/bannergit.jpg" width="100%"/>
+<img src="https://github.com/yasmimsilvagitch/yasmimsilvagitch/blob/main/Spiderman%20wallpaper%204k%20for%20pc%20and%20mac.jpg" width="100%"/>
 
 <p align="center">
   <a href="Currículo aq dps, tenho que fazer ainda kk" target="_blank">
     <img src="https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
   
-  <a href="https://www.linkedin.com/in/thavenny/" target="_blank">
+  <a href="linkedin aqui" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
